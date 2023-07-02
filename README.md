@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center"> I'm Lane! 🤙🏻 </h1>
+
+<h3 align="center">I'm a frontend Software Engineer with a specialty for in developing frontend JavaScript applications using React with a sprinkle of Sass!</h3>
+<h3 align="center">I'm passionate about building products with an emphasis on the user experience 🌈 </h3>
+
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleyna-hamilton/)
+
+</div>
+
 
 <!--
 **LaneEcho/LaneEcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
