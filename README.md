@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Lane! 🤙 </h1>
 
-<h3 align="center">I'm a frontend Software Engineer with a specialty for in developing frontend JavaScript applications using React with a sprinkle of Sass! ✨ </h3>
+<h3 align="center">I'm a frontend Software Engineer with experience in developing JavaScript applications using React with a sprinkle of Sass! ✨ </h3>
 <h3 align="center">I'm passionate about building products with an emphasis on the user experience 🌈 </h3>
 
 <br>
