@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Lane! 🤙 </h1>
 
-<h3 align="center">I'm a frontend Software Engineer with experience in developing JavaScript applications using React with a sprinkle of Sass! ✨ </h3>
+<h3 align="center">I'm a frontend Software Engineer with experience in developing JavaScript applications using React/ Next.js ✨ </h3>
 <h3 align="center">I'm passionate about building products with an emphasis on the user experience 🌈 </h3>
 
 <br>
@@ -32,13 +32,16 @@
 
 <br>
 
-## About Me:
+## Current Projects:
 
-- Recently collaborated with a group of engineers to develop Helmets, an open source tool to visualize the data flow among nested Kubernetes Helm charts. My primary focus was to design an interactive and intuitive user interface to guide user interaction. 🗺️
+- Recreating the famed Burn Book from Mean Girls as an app- So Fetch! 💅
 
-- Currently working on the fetchest project: recreating the famed Burn Book from Mean Girls 💅
+- Unofficial Lesbians Who Tech Bingo Game 
 
-- Presented on UX Design Best Practices for Codesmith/ Jeeny/ Bractlet’s Tech Talk Series 💪🏻
+- Recently collaborated with a group of engineers to develop Helmets, an open source tool to visualize the data flow among nested Kubernetes Helm charts. My primary focus was to design an interactive and intuitive user interface to guide user interaction. 
 
-- When I'm not coding, I enjoy hitting the trail on horseback or catching waves on the Southern California coast, followed by a visit to a local craft brewery. 🍻
+- Presented on UX Design Best Practices for Codesmith/ Jeeny/ Bractlet’s Tech Talk Series
+
+When I'm not coding, I enjoy hitting the trail on horseback or catching waves on the Southern California coast, followed by a visit to a local craft brewery. 🍻
+
 
