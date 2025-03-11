@@ -43,6 +43,6 @@
 
 - Presented on UX Design Best Practices for Codesmith/ Jeeny/ Bractlet’s Tech Talk Series
 
-When I'm not coding, I enjoy hitting the trail on horseback or catching waves on the Southern California coast, followed by a visit to a local craft brewery. 🍻
+When I'm not coding, I enjoy hitting the trail on horseback or catching waves on the Southern California coast.
 
 
