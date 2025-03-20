@@ -1,8 +1,8 @@
-<h1 align="center"> I'm Lane! 🤙 </h1>
+<h1 align="center"> I'm Lane! </h1>
 
-<h3 align="center">I'm a frontend Software Engineer with experience in developing JavaScript applications using React/ Next.js ✨ </h3>
-<h4 align="center">I'm passionate about building products with an emphasis on the user experience 🌈 </h4>
-<h4 align="center">I take pride in my ability to read documentation and learn new frameworks and libraries quickly ⚡️</h4>
+<h3 align="center">I'm a frontend Software Engineer with experience in developing JavaScript applications using React/ Next.js </h3>
+<h4 align="center">I'm passionate about building products with an emphasis on the user experience </h4>
+<h4 align="center">I take pride in my ability to read documentation and learn new frameworks and libraries quickly </h4>
 
 <br>
 
