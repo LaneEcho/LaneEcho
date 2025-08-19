@@ -1,8 +1,8 @@
-<h1 align="center"> I'm Lane! </h1>
+<h1 align="center"> What's Up? I'm Lane! </h1>
 
-<h3 align="center">I'm a frontend Software Engineer with experience in developing JavaScript applications using React/ Next.js </h3>
-<h4 align="center">I'm passionate about building products with an emphasis on the user experience </h4>
-<h4 align="center">I take pride in my ability to read documentation and learn new frameworks and libraries quickly </h4>
+<h3 align="center">I'm a frontend focused yet fullstack capable Software Engineer with experience in developing applications in JavaScript/ TypeScript using React/ Next.js </h3>
+<h4 align="center">I'm passionate about building products with an emphasis on solid UX/ UI principles </h4>
+<h4 align="center">I love continuous learning and take pride in my ability to read documentation and learn new frameworks and libraries quickly </h4>
 
 <br>
 
@@ -43,6 +43,6 @@
 
 - Presented on UX Design Best Practices for Codesmith/ Jeeny/ Bractlet’s Tech Talk Series
 
-When I'm not coding, I enjoy hitting the trail on horseback or catching waves on the Southern California coast.
+When I'm not at the computer, I enjoy hitting the trail with my horse Echo, or being the world's okayest surfer on the Southern California coast.
 
 
