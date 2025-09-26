@@ -1,8 +1,9 @@
 <h1 align="center"> What's Up? I'm Lane! </h1>
 
 <h3 align="center">I'm a frontend focused yet fullstack capable Software Engineer with experience in developing applications in JavaScript/ TypeScript using React/ Next.js </h3>
-<h4 align="center">I'm passionate about building products with an emphasis on solid UX/ UI principles </h4>
+<h4 align="center">I'm passionate about building your ideas with an emphasis on solid UX/ UI principles </h4>
 <h4 align="center">I love continuous learning and take pride in my ability to read documentation and learn new frameworks and libraries quickly </h4>
+<h4 align="center">I am on the hunt for my next opportunity as a frontend or UX engineer </h4>
 
 <br>
 
